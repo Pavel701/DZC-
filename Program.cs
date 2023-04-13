@@ -56,16 +56,32 @@
 // 7 -> нет
 
         
-Console.Write("Введите число: ");
+// Console.Write("Введите число: ");
 
-int num = int.Parse(Console.ReadLine());
+// int num = int.Parse(Console.ReadLine());
 
-if (num % 2 == 0)  // Проверяем, является ли число четным
+// if (num % 2 == 0)  // Проверяем, если остаток равен 0, то число является четным.
+// {
+// Console.WriteLine($"{num} - четное число.");
+// }
+// else
+// {
+// Console.WriteLine($"{num} - нечетное число.");
+// }
+
+// Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
+// 5 -> 2, 4
+// 8 -> 2, 4, 6, 8
+
+
+Console.Write("Введите число N: ");
+            
+int n = int.Parse(Console.ReadLine());
+
+for (int i = 1; i <= n; i++)
+            
+if (i % 2 == 0) // Проверяем, чётное число или нет.
 {
-Console.WriteLine($"{num} - четное число.");
+Console.WriteLine($"Чётные числа: {i}");
 }
-else
-{
-Console.WriteLine($"{num} - нечетное число.");
-}
-        
+       
