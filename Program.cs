@@ -27,26 +27,45 @@
 // 44 5 78 -> 78
 // 22 3 9 -> 22
 
-// Console.WriteLine("Введите три числа:");
-Console.Write("Введите первое число: ");
-int num1 = int.Parse(Console.ReadLine());
 
-Console.Write("Введите второе число: ");
-int num2 = int.Parse(Console.ReadLine());
+// Console.Write("Введите первое число: ");
+// int num1 = int.Parse(Console.ReadLine());
 
-Console.Write("Введите третье число: ");
-int num3 = int.Parse(Console.ReadLine());
+// Console.Write("Введите второе число: ");
+// int num2 = int.Parse(Console.ReadLine());
 
-int max = num1;
+// Console.Write("Введите третье число: ");
+// int num3 = int.Parse(Console.ReadLine());
 
-if (num2 > max)
+// int max = num1;
+
+// if (num2 > max)
+// {
+// max = num2;
+// }
+
+// if (num3 > max)
+// {
+// max = num3;
+// }
+// Console.WriteLine($"Максимальное число: {max}");
+
+// Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
+// 4 -> да
+// -3 -> нет
+// 7 -> нет
+
+        
+Console.Write("Введите число: ");
+
+int num = int.Parse(Console.ReadLine());
+
+if (num % 2 == 0)  // Проверяем, является ли число четным
 {
-max = num2;
+Console.WriteLine($"{num} - четное число.");
 }
-
-if (num3 > max)
+else
 {
-max = num3;
+Console.WriteLine($"{num} - нечетное число.");
 }
-Console.WriteLine($"Максимальное число: {max}");
         
