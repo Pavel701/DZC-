@@ -1,0 +1,15 @@
+D:\Павел\Мои доки\Обучение\Разработчик\DZC#\bin\Debug\net6.0\DZC#.exe
+D:\Павел\Мои доки\Обучение\Разработчик\DZC#\bin\Debug\net6.0\DZC#.deps.json
+D:\Павел\Мои доки\Обучение\Разработчик\DZC#\bin\Debug\net6.0\DZC#.runtimeconfig.json
+D:\Павел\Мои доки\Обучение\Разработчик\DZC#\bin\Debug\net6.0\DZC#.dll
+D:\Павел\Мои доки\Обучение\Разработчик\DZC#\bin\Debug\net6.0\DZC#.pdb
+D:\Павел\Мои доки\Обучение\Разработчик\DZC#\obj\Debug\net6.0\DZC#.csproj.AssemblyReference.cache
+D:\Павел\Мои доки\Обучение\Разработчик\DZC#\obj\Debug\net6.0\DZC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Павел\Мои доки\Обучение\Разработчик\DZC#\obj\Debug\net6.0\DZC#.AssemblyInfoInputs.cache
+D:\Павел\Мои доки\Обучение\Разработчик\DZC#\obj\Debug\net6.0\DZC#.AssemblyInfo.cs
+D:\Павел\Мои доки\Обучение\Разработчик\DZC#\obj\Debug\net6.0\DZC#.csproj.CoreCompileInputs.cache
+D:\Павел\Мои доки\Обучение\Разработчик\DZC#\obj\Debug\net6.0\DZC#.dll
+D:\Павел\Мои доки\Обучение\Разработчик\DZC#\obj\Debug\net6.0\refint\DZC#.dll
+D:\Павел\Мои доки\Обучение\Разработчик\DZC#\obj\Debug\net6.0\DZC#.pdb
+D:\Павел\Мои доки\Обучение\Разработчик\DZC#\obj\Debug\net6.0\DZC#.genruntimeconfig.cache
+D:\Павел\Мои доки\Обучение\Разработчик\DZC#\obj\Debug\net6.0\ref\DZC#.dll
